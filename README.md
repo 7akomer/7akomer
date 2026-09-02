@@ -115,12 +115,7 @@ I build **desktop applications where interface, logic, and data work as one syst
                     │     Database Engine      │
                     └──────────────────────────┘
 
-                           ▲
-                           │
-                  ┌────────┴────────┐
-                  │     MODELS      │
-                  │ Shared Objects  │
-                  └─────────────────┘
+                       
 ```
 
 **Architecture is not decoration. It is how complexity stays under control.**
