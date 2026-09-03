@@ -136,7 +136,7 @@ I build **desktop applications where interface, logic, and data work as one syst
 [![Drive License Management System](https://img.shields.io/badge/DRIVE_LICENSE_MANAGEMENT-512BD4?style=for-the-badge&logo=github)](https://github.com/7akomer/Drive_License_Management_System)
 [![Bank Management System](https://img.shields.io/badge/BANK_MANAGEMENT_SYSTEM-00599C?style=for-the-badge&logo=github)](https://github.com/7akomer/Bank-Management-System)
 [![Pizza Tavola UI](https://img.shields.io/badge/PIZZA_TAVOLA_UI-7B2CBF?style=for-the-badge&logo=github)](https://github.com/7akomer/Pizza-UI-Project)
-[![Halloween Tic Tac Toe](https://img.shields.io/badge/HALLOWEEN_TIC--TAC--TOE-3C096C?style=for-the-badge&logo=github)](https://github.com/7akomer/XO_Game_Halloween)
+[![Halloween Tic Tac Toe](https://img.shields.io/badge/HALLOWEEN_TIC--TAC--TOE-3C096C?style=for-the-badge&logo=github)](https://github.com/7akomer/Halloween-Tic-Tac-Toe-Game)
 
 </div>
 
